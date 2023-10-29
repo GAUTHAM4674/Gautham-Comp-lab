@@ -11,7 +11,7 @@ for (i=1; i<=n ; i++)
 for (a=1; a<=n-i; a++)
 printf (" ");
 for (b=1; b<=n; b++)
-printf ("*");
+printf ("* ");
 printf ("\n");
 }
 }
